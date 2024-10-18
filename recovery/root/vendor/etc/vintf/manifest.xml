@@ -655,8 +655,7 @@
             <name>ITouchFeature</name>
             <instance>default</instance>
         </interface>
-        <fqname>@1.0::ITouchFeature/default</fqname>
-        
+        <fqname>@1.0::ITouchFeature/default</fqname>   
     </hal>
     <sepolicy>
         <version>31.0</version>
